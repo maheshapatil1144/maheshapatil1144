@@ -13,16 +13,16 @@ I'm focused on driving software quality through robust automation and effective 
 | :--- | :--- |
 | **UI Automation** | **Selenium WebDriver**, **Playwright**, **Katalon Studio** |
 | **API & Performance** | **Postman**, **Apache JMeter** |
-| **Core Languages** | Java (for automation), **php** (Basic/Intermediate) |
+| **Core Languages** | Java & JS(for automation) |
 | **Data & Backend** | **MySQL**, **Oracle** |
 | **CI/CD & Version Control** | **Jenkins**, **GitHub** |
-| **Methodology** | Manual Testing, Automation Testing |
+| **Methodology** | Manual, Automation and API Testing |
 
 ---
 
 ### 🤝 Let's Connect & Collaborate
 
-I'm currently open to collaborating on **Software Testing** projects, especially those involving end-to-end automation framework development.
+I am currently open to collaborating on **Software Testing** projects, especially those involving end-to-end automation framework development.
 
 📧 **Contact Me:** maheshapatil1144@gmail.com
 <p align="left">
