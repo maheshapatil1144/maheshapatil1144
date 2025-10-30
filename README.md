@@ -1,5 +1,6 @@
-# Hi there 👋 I'm a Software Quality Assurance Engineer
+# Hi there 👋 
 
+# I'm a Software Quality Assurance Engineer
 I'm focused on driving software quality through robust automation and effective manual testing strategies.
 
 🌍 **Based In:** Mumbai, India
@@ -10,10 +11,10 @@ I'm focused on driving software quality through robust automation and effective 
 
 | Category | Tools & Languages |
 | :--- | :--- |
-| **UI Automation** | **Selenium WebDriver**, **Katalon Studio** |
+| **UI Automation** | **Selenium WebDriver**, **Playwright**, **Katalon Studio** |
 | **API & Performance** | **Postman**, **Apache JMeter** |
 | **Core Languages** | Java (for automation), **php** (Basic/Intermediate) |
-| **Data & Backend** | **MySQL**, **SQL** |
+| **Data & Backend** | **MySQL**, **Oracle** |
 | **CI/CD & Version Control** | **Jenkins**, **GitHub** |
 | **Methodology** | Manual Testing, Automation Testing |
 
