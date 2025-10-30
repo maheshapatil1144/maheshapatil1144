@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there 👋 I'm a Software Quality Assurance Engineer
 
-<!--
-**maheshapatil1144/maheshapatil1144** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm focused on driving software quality through robust automation and effective manual testing strategies.
 
-Here are some ideas to get you started:
+🌍 **Based In:** Mumbai, India
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ⚙️ My Technical Stack & Skills
+
+| Category | Tools & Languages |
+| :--- | :--- |
+| **UI Automation** | **Selenium WebDriver**, **Katalon Studio** |
+| **API & Performance** | **Postman**, **Apache JMeter** |
+| **Core Languages** | Java (for automation), **php** (Basic/Intermediate) |
+| **Data & Backend** | **MySQL**, **SQL** |
+| **CI/CD & Version Control** | **Jenkins**, **GitHub** |
+| **Methodology** | Manual Testing, Automation Testing |
+
+---
+
+### 🤝 Let's Connect & Collaborate
+
+I'm currently open to collaborating on **Software Testing** projects, especially those involving end-to-end automation framework development.
+
+📧 **Contact Me:** maheshapatil1144@gmail.com
+<p align="left">
+    <a href="mailto:maheshapatil1144@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+😄 **Pronouns:** He/Him
